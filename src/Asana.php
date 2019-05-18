@@ -445,7 +445,7 @@ class Asana
     public function getProjectTasks($projectId = null)
     {
         $projectId = $projectId ?: $this->defaultProjectId;
-<
+        
         return $this->curl->get("projects/{$projectId}/tasks");
     }
 
