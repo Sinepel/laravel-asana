@@ -1,6 +1,6 @@
 <?php
 
-namespace Torann\LaravelAsana\Facade;
+namespace Sinepel\LaravelAsana\Facade;
 
 class Asana extends \Illuminate\Support\Facades\Facade
 {
@@ -11,6 +11,6 @@ class Asana extends \Illuminate\Support\Facades\Facade
      */
     protected static function getFacadeAccessor()
     {
-        return 'torann.asana';
+        return 'sinepel.asana';
     }
 }

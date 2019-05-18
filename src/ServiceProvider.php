@@ -1,6 +1,6 @@
 <?php 
 
-namespace Torann\LaravelAsana;
+namespace Sinepel\LaravelAsana;
 
 class ServiceProvider extends \Illuminate\Support\ServiceProvider
 {
@@ -37,7 +37,7 @@ class ServiceProvider extends \Illuminate\Support\ServiceProvider
      */
     public function registerAsanaService()
     {
-        $this->app->singleton('torann.asana', function ($app) {
+        $this->app->singleton('sinepel.asana', function ($app) {
             $config = $app->config->get('asana', []);
 
             return new Asana($config);

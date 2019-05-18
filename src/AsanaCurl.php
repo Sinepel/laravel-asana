@@ -1,6 +1,6 @@
 <?php
 
-namespace Torann\LaravelAsana;
+namespace Sinepel\LaravelAsana;
 
 use Exception;
 use InvalidArgumentException;

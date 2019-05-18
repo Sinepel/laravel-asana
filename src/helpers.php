@@ -4,10 +4,10 @@ if (!function_exists('asana')) {
     /**
      * Get the asana instance.
      *
-     * @return \Torann\LaravelAsana\Asana
+     * @return \Sinepel\LaravelAsana\Asana
      */
     function asana()
     {
-        return app('torann.asana');
+        return app('sinepel.asana');
     }
 }

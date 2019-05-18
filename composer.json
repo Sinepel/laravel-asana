@@ -1,9 +1,13 @@
 {
-  "name": "torann/laravel-asana",
+  "name": "sinepel/laravel-asana",
   "description": "Asana API wrapper for Laravel",
   "keywords": ["laravel", "asana", "laravel 5"],
   "license": "BSD-2-Clause",
   "authors": [
+    {
+      "name": "Constantin Boulanger",
+      "email": "constantin.boulanger@gmail.com"
+    },
     {
       "name": "Daniel Stainback",
       "email": "torann@gmail.com"
@@ -18,7 +22,7 @@
       "src/helpers.php"
     ],
     "psr-4": {
-      "Torann\\LaravelAsana\\": "src/"
+      "Sinepel\\LaravelAsana\\": "src/"
     }
   },
   "extra": {
