@@ -1,22 +1,22 @@
 # Asana for Laravel
 
-[![Latest Stable Version](https://poser.pugx.org/torann/laravel-asana/v/stable.png)](https://packagist.org/packages/torann/laravel-asana)
-[![Total Downloads](https://poser.pugx.org/torann/laravel-asana/downloads.png)](https://packagist.org/packages/torann/laravel-asana)
-[![Patreon donate button](https://img.shields.io/badge/patreon-donate-yellow.svg)](https://www.patreon.com/torann)
-[![Donate weekly to this project using Gratipay](https://img.shields.io/badge/gratipay-donate-yellow.svg)](https://gratipay.com/~torann)
-[![Donate to this project using Flattr](https://img.shields.io/badge/flattr-donate-yellow.svg)](https://flattr.com/profile/torann)
-[![Donate to this project using Paypal](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=4CJA2A97NPYVU)
+[![Latest Stable Version](https://poser.pugx.org/sinepel/laravel-asana/v/stable.png)](https://packagist.org/packages/torann/laravel-asana)
+[![Total Downloads](https://poser.pugx.org/sinepel/laravel-asana/downloads.png)](https://packagist.org/packages/sinepel/laravel-asana)
 
 Asana API wrapper for Laravel, supporting workspaces, projects, tasks, tags, users and stories.
 
-- [Laravel Asana on Packagist](https://packagist.org/packages/torann/laravel-asana)
-- [Laravel Asana on GitHub](https://github.com/torann/laravel-asana)
+- [Laravel Asana on Packagist](https://packagist.org/packages/sinepel/laravel-asana)
+- [Laravel Asana on GitHub](https://github.com/sinepel/laravel-asana)
 
 ## Official Documentation
 
-Documentation for the package can be found on [Lyften.com](http://lyften.com/projects/laravel-asana/).
+Documentation for the package can be found on [Wiki](https://github.com/Sinepel/laravel-asana/wiki).
 
 ## Change Log
+
+#### v0.5.0
+
+- Added getDetailedProjectTasks function
 
 #### v0.4.0
 
