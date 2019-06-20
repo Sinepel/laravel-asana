@@ -1,6 +1,6 @@
 # Asana for Laravel
 
-[![Latest Stable Version](https://poser.pugx.org/sinepel/laravel-asana/v/stable.png)](https://packagist.org/packages/torann/laravel-asana)
+[![Latest Stable Version](https://poser.pugx.org/sinepel/laravel-asana/v/stable.png)](https://packagist.org/packages/sinepel/laravel-asana)
 [![Total Downloads](https://poser.pugx.org/sinepel/laravel-asana/downloads.png)](https://packagist.org/packages/sinepel/laravel-asana)
 
 Asana API wrapper for Laravel, supporting workspaces, projects, tasks, tags, users and stories.
