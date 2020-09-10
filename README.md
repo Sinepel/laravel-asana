@@ -14,6 +14,10 @@ Documentation for the package can be found on [Wiki](https://github.com/Sinepel/
 
 ## Change Log
 
+#### v0.5.3
+
+- Allow Laravel 8
+
 #### v0.5.2
 
 - Allow Laravel 6 et Laravel 7
